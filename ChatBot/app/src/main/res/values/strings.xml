@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="textView">This is a sample message that will appear</string>
+    <string name="bot_message">This is a sample message that will appear</string>
+</resources>
